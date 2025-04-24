@@ -1,0 +1,2 @@
+# Mitigation-of-Aviation-Industry-Cyberattacks-with-US-Department-of-Transportation
+In March 2019, the Boeing 737 Max fleet was grounded following two catastrophic crashes in Indonesia and Ethiopia. This grounding, caused by software malfunctions, systemic failures related to the aircraft's Maneuvering Characteristics Augmentation System (MCAS), and a security flaw in the Language Integrated Query (LINQ) software.
